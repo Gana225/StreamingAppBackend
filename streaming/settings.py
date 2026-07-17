@@ -75,9 +75,9 @@ WSGI_APPLICATION = 'streaming.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'stream',
-        'USER' : 'postgres',
-        'PASSWORD' : 'Admingana',
+        'NAME': 'streamapp',
+        'USER' : 'gana',
+        'PASSWORD' : 'Worldearth@5070',
         'HOST' : 'localhost',
         'PORT' : '5432',
         
